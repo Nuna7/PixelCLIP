@@ -16,4 +16,4 @@ from .data.dataset_mappers.mask_former_semantic_dataset_mapper import (
 from .data.dataset_mappers.sa1b_dataset_mapper import SamBaselineDatasetMapperJSON
 
 # models
-from .pixelclip import PixelCLIP
+from .model import PixelCLIP
