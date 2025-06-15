@@ -1,0 +1,32 @@
+wall
+bed 
+windowpane
+curtain
+shelf
+armchair
+desk
+wardrobe
+box
+counter
+sand
+sink
+skyscraper
+screen door
+bookcase
+coffee table
+toilet
+book
+kitchen island
+hovel
+towel
+bottle
+poster
+plaything
+stool
+bag
+cradle
+step
+dishwasher
+tray
+bulletin board
+shower

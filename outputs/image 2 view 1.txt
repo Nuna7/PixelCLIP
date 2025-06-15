@@ -1,0 +1,34 @@
+wall
+cabinet
+table
+mirror
+desk
+lamp
+signboard
+counter
+skyscraper
+coffee table
+toilet
+book
+kitchen island
+computer
+towel
+streetlight
+booth
+television receiver
+pole
+escalator
+bottle
+conveyer belt
+swimming pool
+stool
+bag
+food
+step
+microwave
+sconce
+traffic light
+monitor
+bulletin board
+shower
+glass

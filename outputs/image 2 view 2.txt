@@ -1,0 +1,33 @@
+wall
+windowpane
+cabinet
+person
+door
+shelf
+mirror
+desk
+wardrobe
+lamp
+box
+chest of drawers
+counter
+sink
+skyscraper
+refrigerator
+screen door
+coffee table
+toilet
+computer
+swivel chair
+hovel
+booth
+ottoman
+bottle
+stool
+bag
+step
+dishwasher
+fan
+bulletin board
+shower
+glass

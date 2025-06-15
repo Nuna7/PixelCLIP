@@ -1,0 +1,33 @@
+wall
+tree
+bed 
+curtain
+sofa
+mirror
+armchair
+desk
+wardrobe
+bathtub
+cushion
+signboard
+chest of drawers
+sink
+pillow
+bookcase
+coffee table
+toilet
+book
+swivel chair
+hovel
+towel
+booth
+apparel
+ottoman
+bottle
+poster
+plaything
+bag
+step
+blanket
+bulletin board
+shower
