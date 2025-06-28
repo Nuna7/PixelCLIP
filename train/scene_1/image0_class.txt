@@ -1,0 +1,1 @@
+wall,floor,ceiling,grass,cabinet,shelf,rug,field,desk,rock,wardrobe,box,counter,skyscraper,pool table,coffee table,toilet,countertop,kitchen island,computer,arcade machine,light,booth,television receiver,ottoman,buffet,conveyer belt,plaything,swimming pool,stool,oven,ball,step,microwave,screen,traffic light,crt screen,monitor,shower,clock

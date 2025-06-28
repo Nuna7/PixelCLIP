@@ -1,0 +1,1 @@
+wall,floor,ceiling,bed ,grass,cabinet,plant,sofa,shelf,rug,armchair,wardrobe,lamp,base,chest of drawers,counter,skyscraper,path,stairs,pool table,bookcase,coffee table,toilet,palm,kitchen island,swivel chair,bar,hovel,light,booth,bannister,escalator,buffet,conveyer belt,plaything,swimming pool,stool,food,step,pot,sconce,traffic light,shower,glass,clock

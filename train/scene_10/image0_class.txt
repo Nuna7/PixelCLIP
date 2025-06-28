@@ -1,0 +1,1 @@
+wall,floor,windowpane,door,plant,sofa,house,armchair,lamp,counter,skyscraper,stairs,screen door,stairway,bookcase,coffee table,toilet,book,palm,kitchen island,swivel chair,hovel,light,chandelier,television receiver,bannister,buffet,oven,microwave,pot,sconce,shower,glass

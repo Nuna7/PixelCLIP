@@ -1,0 +1,1 @@
+wall,floor,ceiling,windowpane,cabinet,door,rug,wardrobe,lamp,chest of drawers,counter,sink,refrigerator,screen door,toilet,kitchen island,bar,hovel,light,ottoman,buffet,poster,oven,step,microwave,dishwasher,sconce,shower,radiator

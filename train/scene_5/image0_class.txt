@@ -1,0 +1,1 @@
+wall,floor,tree,ceiling,bed ,windowpane,plant,painting,sofa,mirror,rug,lamp,chest of drawers,skyscraper,coffee table,flower,palm,hovel,light,ottoman,buffet,basket,ball,step,vase,radiator,glass

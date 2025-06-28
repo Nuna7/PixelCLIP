@@ -1,0 +1,1 @@
+sky,floor,ceiling,bed ,windowpane,cabinet,door,plant,sofa,house,rug,armchair,wardrobe,bathtub,counter,sink,refrigerator,screen door,coffee table,toilet,bench,countertop,kitchen island,bar,hovel,towel,light,awning,land,bannister,ottoman,buffet,swimming pool,stool,barrel,oven,step,dishwasher,sconce,shower,radiator

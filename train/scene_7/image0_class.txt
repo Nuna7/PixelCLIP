@@ -1,0 +1,1 @@
+wall,floor,ceiling,bed ,windowpane,cabinet,plant,curtain,painting,sofa,armchair,wardrobe,lamp,base,chest of drawers,counter,skyscraper,bookcase,coffee table,toilet,palm,kitchen island,swivel chair,bar,hovel,light,booth,television receiver,land,ottoman,buffet,poster,stool,step,glass,clock

@@ -1,0 +1,1 @@
+sky,floor,ceiling,windowpane,grass,door,plant,curtain,car,bathtub,sink,screen door,toilet,hovel,towel,land,bannister,swimming pool,step,sconce,shower,radiator

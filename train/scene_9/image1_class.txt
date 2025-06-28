@@ -1,0 +1,1 @@
+wall,floor,ceiling,table,lamp,base,counter,sink,skyscraper,coffee table,toilet,flower,kitchen island,bar,hovel,light,chandelier,airplane,buffet,plaything,stool,food,step,vase,traffic light,plate,shower,glass,clock

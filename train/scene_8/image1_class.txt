@@ -1,0 +1,1 @@
+wall,sky,floor,ceiling,windowpane,plant,water,sofa,sea,rug,field,armchair,lamp,base,counter,skyscraper,grandstand,path,runway,pool table,river,bridge,coffee table,flower,countertop,swivel chair,bar,light,chandelier,airplane,land,escalator,ottoman,buffet,ship,fountain,conveyer belt,canopy,swimming pool,lake,sculpture,glass
